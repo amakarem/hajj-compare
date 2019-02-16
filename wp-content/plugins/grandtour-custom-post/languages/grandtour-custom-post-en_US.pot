@@ -1,0 +1,1056 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-17 11:33+0700\n"
+"PO-Revision-Date: 2017-01-29 17:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gallery/tg-gallery.php:58
+msgid "Gallery Images"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:100
+msgid "Allowed Files"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:124
+msgid "Delete All Images"
+msgstr ""
+
+#: ../grandtour-custom-post.php:22
+msgid "Galleries"
+msgstr ""
+
+#: ../grandtour-custom-post.php:23
+msgid "Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:24 ../grandtour-custom-post.php:25
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:26
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:27
+msgid "New Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:28
+msgid "View Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:29
+msgid "Search Gallery"
+msgstr ""
+
+#: ../grandtour-custom-post.php:30
+msgid "No Gallery found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:31
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:51
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:52
+msgid "Gallery Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:53
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:54
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:55
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:56
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:57
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:58
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:59
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:60
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:82
+msgid "Tours"
+msgstr ""
+
+#: ../grandtour-custom-post.php:83
+msgid "Tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:84 ../grandtour-custom-post.php:85
+msgid "Add New Tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:86
+msgid "Edit Tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:87
+msgid "New Tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:88
+msgid "View Tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:89
+msgid "Search Tours"
+msgstr ""
+
+#: ../grandtour-custom-post.php:90
+msgid "No Tour found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:91
+msgid "No Tour found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:111
+msgid "Tour Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:112
+msgid "Tour Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:113
+msgid "Search Tour Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:114
+msgid "All Tour Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:115
+msgid "Parent Tour Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:116
+msgid "Parent Tour Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:117
+msgid "Edit Tour Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:118
+msgid "Update Tour Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:119
+msgid "Add New Tour Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:120
+msgid "New Tour Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:148
+msgid "Search Tour Tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:149
+msgid "Popular Tour Tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:150
+msgid "All Tour Tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:153
+msgid "Edit Tour Tag"
+msgstr ""
+
+#: ../grandtour-custom-post.php:154
+msgid "Update Tour Tag"
+msgstr ""
+
+#: ../grandtour-custom-post.php:155
+msgid "Add New Tour Tag"
+msgstr ""
+
+#: ../grandtour-custom-post.php:156
+msgid "New Tour Tag Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:157
+msgid "Separate tour tags with commas"
+msgstr ""
+
+#: ../grandtour-custom-post.php:158
+msgid "Add or remove tour tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:159
+msgid "Choose from the most used tour tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:160
+msgid "Tour Tags"
+msgstr ""
+
+#: ../grandtour-custom-post.php:178
+msgid "Destinations"
+msgstr ""
+
+#: ../grandtour-custom-post.php:179 ../tg-filter.php:240 ../tg-filter.php:597
+msgid "Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:180 ../grandtour-custom-post.php:181
+msgid "Add New Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:182
+msgid "Edit Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:183
+msgid "New Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:184
+msgid "View Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:185
+msgid "Search Destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:186
+msgid "No Destination found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:187
+msgid "No Destination found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:207
+msgid "Destinations Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:208
+msgid "Destination Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:209
+msgid "Search Destination Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:210
+msgid "All Destination Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:211
+msgid "Parent Destination Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:212
+msgid "Parent Destination Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:213
+msgid "Edit Destination Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:214
+msgid "Update Destination Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:215
+msgid "Add New Destination Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:216
+msgid "New Destination Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:237
+msgid "Testimonials"
+msgstr ""
+
+#: ../grandtour-custom-post.php:238
+msgid "Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:239 ../grandtour-custom-post.php:240
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:241
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:242
+msgid "New Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:243
+msgid "View Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:244
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../grandtour-custom-post.php:245
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:246
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:266
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:267
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:268
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:269
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:270
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:271
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:272
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:273
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:274
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:275
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:297
+msgid "Team Members"
+msgstr ""
+
+#: ../grandtour-custom-post.php:298
+msgid "Team Member"
+msgstr ""
+
+#: ../grandtour-custom-post.php:299 ../grandtour-custom-post.php:300
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../grandtour-custom-post.php:301
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../grandtour-custom-post.php:302
+msgid "New Team Member"
+msgstr ""
+
+#: ../grandtour-custom-post.php:303
+msgid "View Team Member"
+msgstr ""
+
+#: ../grandtour-custom-post.php:304
+msgid "Search Team Members"
+msgstr ""
+
+#: ../grandtour-custom-post.php:305
+msgid "No Team Member found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:306
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:326
+msgid "Team Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:327
+msgid "Team Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:328
+msgid "Team Service Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:329
+msgid "All Team Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:330
+msgid "Parent Team Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:331
+msgid "Parent Team Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:332
+msgid "Edit Team Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:333
+msgid "Update Team Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:334
+msgid "Add New Team Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:335
+msgid "New Team Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:356 ../grandtour-custom-post.php:357
+msgid "Pricing"
+msgstr ""
+
+#: ../grandtour-custom-post.php:358 ../grandtour-custom-post.php:359
+msgid "Add New Pricing"
+msgstr ""
+
+#: ../grandtour-custom-post.php:360
+msgid "Edit Pricing"
+msgstr ""
+
+#: ../grandtour-custom-post.php:361
+msgid "New Pricing"
+msgstr ""
+
+#: ../grandtour-custom-post.php:362
+msgid "View Pricing"
+msgstr ""
+
+#: ../grandtour-custom-post.php:363
+msgid "Search Pricings"
+msgstr ""
+
+#: ../grandtour-custom-post.php:364
+msgid "No Pricing found"
+msgstr ""
+
+#: ../grandtour-custom-post.php:365
+msgid "No Pricing found in Trash"
+msgstr ""
+
+#: ../grandtour-custom-post.php:385
+msgid "Pricing Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:386
+msgid "Pricing Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:387
+msgid "Pricing Service Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:388
+msgid "All Pricing Categories"
+msgstr ""
+
+#: ../grandtour-custom-post.php:389
+msgid "Parent Pricing Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:390
+msgid "Parent Pricing Category:"
+msgstr ""
+
+#: ../grandtour-custom-post.php:391
+msgid "Edit Pricing Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:392
+msgid "Update Pricing Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:393
+msgid "Add New Pricing Category"
+msgstr ""
+
+#: ../grandtour-custom-post.php:394
+msgid "New Pricing Category Name"
+msgstr ""
+
+#: ../grandtour-custom-post.php:415
+msgid "Thumbnail"
+msgstr ""
+
+#: ../grandtour-custom-post.php:494
+msgid "January"
+msgstr ""
+
+#: ../grandtour-custom-post.php:495
+msgid "February"
+msgstr ""
+
+#: ../grandtour-custom-post.php:496
+msgid "March"
+msgstr ""
+
+#: ../grandtour-custom-post.php:497
+msgid "April"
+msgstr ""
+
+#: ../grandtour-custom-post.php:498
+msgid "May"
+msgstr ""
+
+#: ../grandtour-custom-post.php:499
+msgid "June"
+msgstr ""
+
+#: ../grandtour-custom-post.php:500
+msgid "July"
+msgstr ""
+
+#: ../grandtour-custom-post.php:501
+msgid "August"
+msgstr ""
+
+#: ../grandtour-custom-post.php:502
+msgid "September"
+msgstr ""
+
+#: ../grandtour-custom-post.php:503
+msgid "October"
+msgstr ""
+
+#: ../grandtour-custom-post.php:504
+msgid "November"
+msgstr ""
+
+#: ../grandtour-custom-post.php:505
+msgid "December"
+msgstr ""
+
+#: ../grandtour-custom-post.php:516
+msgid "Monday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:517
+msgid "Tuesday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:518
+msgid "Wednesday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:519
+msgid "Thursday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:520
+msgid "Friday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:521
+msgid "Saturday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:522
+msgid "Sunday"
+msgstr ""
+
+#: ../grandtour-custom-post.php:631
+msgid "Number of Day(s)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:632
+msgid "Enter number of days for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:638
+msgid "Number of Hour(s)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:639
+msgid "Enter number of hours for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:645
+msgid "Available Day(s)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:653
+msgid "Minimum Age(s)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:654
+msgid "Enter number of minimum age(s) for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:660
+msgid "Tour Month(s)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:668
+msgid "Availability"
+msgstr ""
+
+#: ../grandtour-custom-post.php:669
+msgid "Enter number of availability for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:675
+msgid "Price"
+msgstr ""
+
+#: ../grandtour-custom-post.php:676
+msgid "Enter price for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:682
+msgid "Discount Price (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:683
+msgid "Enter discount price for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:689
+msgid "Label (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:690
+msgid "Enter label for this tour. For example Sale"
+msgstr ""
+
+#: ../grandtour-custom-post.php:696
+msgid "Booking Method"
+msgstr ""
+
+#: ../grandtour-custom-post.php:709
+msgid "Conform Form 7"
+msgstr ""
+
+#: ../grandtour-custom-post.php:717
+msgid "Woocommerce Product"
+msgstr ""
+
+#: ../grandtour-custom-post.php:725
+msgid "Booking URL"
+msgstr ""
+
+#: ../grandtour-custom-post.php:726
+msgid "Enter booking URL for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:732
+msgid "Booking HTML & Shortcode"
+msgstr ""
+
+#: ../grandtour-custom-post.php:733
+msgid "Enter custom HTML or shortcode for booking"
+msgstr ""
+
+#: ../grandtour-custom-post.php:739
+msgid "Departure"
+msgstr ""
+
+#: ../grandtour-custom-post.php:740
+msgid "Enter departure location for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:746
+msgid "Departure Time"
+msgstr ""
+
+#: ../grandtour-custom-post.php:747 ../grandtour-custom-post.php:754
+msgid "Enter departure time for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:753
+msgid "Return Time"
+msgstr ""
+
+#: ../grandtour-custom-post.php:760
+msgid "Included"
+msgstr ""
+
+#: ../grandtour-custom-post.php:761
+msgid "Enter what\\'s included in this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:767
+msgid "Not Included"
+msgstr ""
+
+#: ../grandtour-custom-post.php:768
+msgid "Enter what\\'s not included in this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:774
+msgid "Map Address (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:775
+msgid "Enter tour address for Google Maps for example London"
+msgstr ""
+
+#: ../grandtour-custom-post.php:781
+msgid "Gallery (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:782
+msgid "Select sample image gallery for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:789
+msgid "Video Review (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:790
+msgid "Enter video review embed HTML code for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:824
+msgid "Single Tour Page Layout"
+msgstr ""
+
+#: ../grandtour-custom-post.php:825
+msgid "Enter layout for this tour"
+msgstr ""
+
+#: ../grandtour-custom-post.php:862
+msgid "Sidebar (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:863
+msgid "Select sidebar to display for this destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:870
+msgid "Related Tours (Optional)"
+msgstr ""
+
+#: ../grandtour-custom-post.php:879
+msgid "Single Destination Page Layout"
+msgstr ""
+
+#: ../grandtour-custom-post.php:880
+msgid "Enter layout for this destination"
+msgstr ""
+
+#: ../grandtour-custom-post.php:1083
+msgid "Title"
+msgstr ""
+
+#: ../grandtour-custom-post.php:1116
+msgid "Add another"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1034
+msgid "Purchase"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1075
+msgid "Load more"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1087 ../tg-shortcode.php:1638
+msgid ""
+"Empty gallery item. Please make sure you have upload image to it or check "
+"the short code."
+msgstr ""
+
+#: ../tg-contentbuilder.php:3376 ../tg-contentbuilder.php:3631
+#: ../tg-contentbuilder.php:3882 ../tg-contentbuilder.php:4133
+msgid "Destination, city"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3387 ../tg-contentbuilder.php:3642
+#: ../tg-contentbuilder.php:3893 ../tg-contentbuilder.php:4144
+msgid "Any Month"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3413 ../tg-contentbuilder.php:3668
+#: ../tg-contentbuilder.php:3919 ../tg-contentbuilder.php:4170
+msgid "Search"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3429 ../tg-contentbuilder.php:3684
+#: ../tg-contentbuilder.php:3935 ../tg-contentbuilder.php:4186
+msgid "All Categories"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3457 ../tg-contentbuilder.php:3712
+#: ../tg-contentbuilder.php:3963 ../tg-contentbuilder.php:4214
+msgid "Any Destinations"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3475 ../tg-contentbuilder.php:3730
+#: ../tg-contentbuilder.php:3981 ../tg-contentbuilder.php:4232
+msgid "Max budget ex. 500"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3485 ../tg-contentbuilder.php:3740
+#: ../tg-contentbuilder.php:3991 ../tg-contentbuilder.php:4242
+msgid "Advanced Search"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4529 ../tg-contentbuilder.php:4866
+#: ../tg-contentbuilder.php:5188 ../tg-contentbuilder.php:5516
+msgid "reviews"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4533 ../tg-contentbuilder.php:4870
+#: ../tg-contentbuilder.php:5192 ../tg-contentbuilder.php:5520
+msgid "review"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4560 ../tg-contentbuilder.php:4897
+#: ../tg-contentbuilder.php:5219 ../tg-contentbuilder.php:5547
+msgid "days"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4564 ../tg-contentbuilder.php:4901
+#: ../tg-contentbuilder.php:5223 ../tg-contentbuilder.php:5551
+msgid "day"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4588 ../tg-contentbuilder.php:4925
+#: ../tg-contentbuilder.php:5242 ../tg-contentbuilder.php:5570
+#: ../tg-contentbuilder.php:5736 ../tg-contentbuilder.php:5894
+#: ../tg-contentbuilder.php:6093
+msgid "We haven't found any tour that matches you're criteria"
+msgstr ""
+
+#: ../tg-contentbuilder.php:6238 ../tg-contentbuilder.php:6388
+msgid "We haven't found any tour category that matches you're criteria"
+msgstr ""
+
+#: ../tg-contentbuilder.php:6568
+msgid "Read More"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8428 ../tg-contentbuilder.php:8429
+msgid "Name *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8436 ../tg-contentbuilder.php:8437
+msgid "Email *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8444 ../tg-contentbuilder.php:8445
+msgid "Message *"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8452 ../tg-contentbuilder.php:8453
+msgid "Address"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8460 ../tg-contentbuilder.php:8461
+msgid "Phone"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8468 ../tg-contentbuilder.php:8469
+msgid "Mobile"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8476 ../tg-contentbuilder.php:8477
+msgid "Company Name"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8484 ../tg-contentbuilder.php:8485
+msgid "Country"
+msgstr ""
+
+#: ../tg-contentbuilder.php:8514
+msgid "Send"
+msgstr ""
+
+#: ../tg-filter.php:11
+msgid "Tour Category Page Template"
+msgstr ""
+
+#: ../tg-filter.php:40
+msgid "Select page template for this tour category"
+msgstr ""
+
+#: ../tg-filter.php:78
+msgid "Destination Category Page Template"
+msgstr ""
+
+#: ../tg-filter.php:98
+msgid "Select page template for this destination category"
+msgstr ""
+
+#: ../tg-filter.php:174
+msgid "Edit in Content Builder"
+msgstr ""
+
+#: ../tg-filter.php:175
+msgid "Edit in Classic Editor"
+msgstr ""
+
+#: ../tg-filter.php:232 ../tg-filter.php:575
+msgid "Accomodation"
+msgstr ""
+
+#: ../tg-filter.php:248 ../tg-filter.php:619
+msgid "Meals"
+msgstr ""
+
+#: ../tg-filter.php:256 ../tg-filter.php:641
+msgid "Transport"
+msgstr ""
+
+#: ../tg-filter.php:264 ../tg-filter.php:663
+msgid "Value For Money"
+msgstr ""
+
+#: ../tg-filter.php:272 ../tg-filter.php:685
+msgid "Overall"
+msgstr ""
+
+#: ../tg-filter.php:370
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with accomodation rating."
+msgstr ""
+
+#: ../tg-filter.php:373
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with destination rating."
+msgstr ""
+
+#: ../tg-filter.php:376
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with meals rating."
+msgstr ""
+
+#: ../tg-filter.php:379
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with transport rating."
+msgstr ""
+
+#: ../tg-filter.php:382
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with value for money rating."
+msgstr ""
+
+#: ../tg-filter.php:385
+msgid ""
+"Error: You did not add your rating. Hit the BACK button of your Web browser "
+"and resubmit your comment with overall rating."
+msgstr ""
+
+#: ../tg-filter.php:400
+msgid "Comment Metadata - Rating"
+msgstr ""
+
+#: ../tg-filter.php:422
+msgid "Accomodation "
+msgstr ""
+
+#: ../tg-filter.php:434
+msgid "Destination "
+msgstr ""
+
+#: ../tg-filter.php:446
+msgid "Meals "
+msgstr ""
+
+#: ../tg-filter.php:458
+msgid "Transport "
+msgstr ""
+
+#: ../tg-filter.php:470
+msgid "Value For Money "
+msgstr ""
+
+#: ../tg-filter.php:482
+msgid "Overall "
+msgstr ""
+
+#: ../tg-shortcode.php:290
+msgid "Share On"
+msgstr ""
+
+#: ../tg-shortcode.php:1094
+msgid "Go to top"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Add New Event"
+#~ msgstr "Add New Gallery"
+
+#, fuzzy
+#~ msgid "Add New Event Category"
+#~ msgstr "Add New Gallery"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#, fuzzy
+#~ msgid "Leave A Reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"

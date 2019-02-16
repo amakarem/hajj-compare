@@ -1,0 +1,90 @@
+/* -- START -- Reset */
+#bsa-paper-note-1 h3,
+#bsa-paper-note-1 a,
+#bsa-paper-note-1 img,
+#bsa-paper-note-1 span,
+#bsa-paper-note-1 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-paper-note-1 .bsaProItemInner.bsaNote {
+	position: relative;
+	height: 140px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	color: #fff;
+	background: #e53935;
+	overflow: hidden;
+}
+
+#bsa-paper-note-1 .bsaProItemInner.bsaNote:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	border-width: 0 16px 16px 0;
+	border-style: solid;
+	border-color: #fff #fff #c62828 #c62828;
+	background: #c62828;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
+	/* Firefox 3.0 damage limitation */
+	display: block; width: 0;
+}
+
+#bsa-paper-note-1 .bsaProItemInner.bsaNote.bsaRounded {
+	-moz-border-radius: 5px 0 5px 5px;
+	border-radius: 5px 0 5px 5px;
+}
+
+#bsa-paper-note-1 .bsaProItemInner.bsaNote.bsaRounded:before {
+	border-width: 15px;
+	border-color: #fff #fff transparent transparent;
+	-moz-border-radius: 0 0 0 5px;
+	border-radius: 0 0 0 5px;
+}
+
+#bsa-paper-note-1 .bsaProItemInner .bsaProItemInner__copy {
+	float: left;
+	height: 140px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#bsa-paper-note-1 .bsaProItemInner__copyInner {
+
+}
+
+#bsa-paper-note-1 .bsaProItemInner__copy .bsaProItemInner__title {
+	font-size: 20px;
+	margin: 15px 15px 0;
+	color: #5d0a0a;
+}
+
+#bsa-paper-note-1 .bsaProItemInner__copy .bsaProItemInner__desc {
+	margin: 0 15px 10px;
+	font-size: 14px;
+	color: #ffcdd2;
+}
+
+#bsa-paper-note-1 .bsaProItemInner__copy .bsaProItemInner__url {
+	margin: 0 15px;
+	font-weight: bold;
+	font-size: 14px;
+	color: #ffcdd2;
+}
+/* -- END -- TEMPLATE */

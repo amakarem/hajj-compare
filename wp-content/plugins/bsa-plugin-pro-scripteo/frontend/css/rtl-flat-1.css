@@ -1,0 +1,86 @@
+/* -- START -- Reset */
+#bsa-flat-1 h3,
+#bsa-flat-1 a,
+#bsa-flat-1 img,
+#bsa-flat-1 span,
+#bsa-flat-1 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-flat-1 .bsaProItemInner {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	background-color: #f5f5f5;
+	color: #000000;
+}
+
+#bsa-flat-1 .bsaProItemInner .bsaProItemInner__thumb {
+	float: left;
+	height: 150px;
+	width: 35%;
+	overflow: hidden;
+}
+
+#bsa-flat-1 .bsaProItemInner__thumb .bsaProItemInner__img {
+	width: 100%;
+	height: 150px;
+	background-color: #bbdefb;
+}
+
+#bsa-flat-1 .bsaProItemInner__thumb .bsaProItemInner__img .bsaProItemInner__imgSymbol {
+	color: white;
+}
+
+#bsa-flat-1 .bsaProItemInner__thumb .bsaProItemInner__img .bsaProItemInner__imgSymbolBox {
+	width: 50px;
+	margin: 0 auto;
+}
+
+#bsa-flat-1 .bsaProItemInner__thumb .bsaProItemInner__img .bsaProItemInner__imgSymbol .bsaProItemInner__imgSymbolBox > i {
+	font-size: 50px;
+	line-height: 150px;
+	text-align: center;
+	border: 1px solid white;
+	border-radius: 50%;
+}
+
+#bsa-flat-1 .bsaProItemInner .bsaProItemInner__copy {
+	float: right;
+	height: 150px;
+	width: 65%;
+	padding: 0;
+	margin: 0;
+}
+
+#bsa-flat-1 .bsaProItemInner__copyInner {
+
+}
+
+#bsa-flat-1 .bsaProItemInner__copy .bsaProItemInner__title {
+	font-size: 17px;
+	margin: 15px 15px 0;
+}
+
+#bsa-flat-1 .bsaProItemInner__copy .bsaProItemInner__desc {
+	margin: 0 15px 10px;
+	font-size: 14px;
+}
+
+#bsa-flat-1 .bsaProItemInner__copy .bsaProItemInner__url {
+	margin: 0 15px;
+	font-weight: bold;
+	font-size: 14px;
+}
+/* -- END -- TEMPLATE */

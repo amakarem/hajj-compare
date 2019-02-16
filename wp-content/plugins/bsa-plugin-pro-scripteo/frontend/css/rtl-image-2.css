@@ -1,0 +1,50 @@
+/* -- START -- Reset */
+#bsa-image-2 h3,
+#bsa-image-2 a,
+#bsa-image-2 img,
+#bsa-image-2 span,
+#bsa-image-2 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-image-2 .bsaProItemInner__img {
+	width: 100%;
+	height: 150px;
+	background-size: cover;
+}
+#bsa-image-2 .bsaProItemInner__copy {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+}
+#bsa-image-2 .bsaProItemInner__copyInner {
+	padding: 10px;
+	z-index: 100;
+	position: relative;
+}
+#bsa-image-2 .bsaProItemInner__copyInnerBg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: .4;
+	background-color: black;
+	z-index: 10;
+}
+#bsa-image-2 .bsaProItemInner__title {
+	color: white;
+}
+/* -- END -- TEMPLATE */

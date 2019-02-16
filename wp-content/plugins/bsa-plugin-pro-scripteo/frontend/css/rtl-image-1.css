@@ -1,0 +1,26 @@
+/* -- START -- Reset */
+#bsa-image-1 h3,
+#bsa-image-1 a,
+#bsa-image-1 img,
+#bsa-image-1 span,
+#bsa-image-1 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-image-1 .bsaProItemInner__img {
+	width: 100%;
+	height: 150px;
+	background-size: cover;
+}
+/* -- END -- TEMPLATE */

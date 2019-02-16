@@ -1,0 +1,166 @@
+/*
+Theme Name: GrandTour Child
+Theme URI: https://themes.themegoods.com/grandtour/landing
+Template: grandtour
+Author: ThemeGoods
+Author URI: https://themeforest.net/user/ThemeGoods
+Description: Premium Tour &amp; Booking Travel Theme
+Version: 3.7.1537956051
+Updated: 2018-09-26 10:00:51
+
+*/
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+.home #wrapper {
+    background-color: #fff;
+}
+/* Contact Form 7 */
+div.wpcf7-mail-sent-ok {
+    background: #b1d234;
+    font-weight: bold;
+    font-size: 18px;
+}
+.header_search_wrapper {
+    display: inline-block;
+    position: relative;
+    margin-left: 8px;
+}
+.header_search_wrapper a{
+    color: #183541
+}
+
+.header_search_wrapper .ti-search:hover
+{
+    color: #b1d234;
+}
+.top_bar.scroll .logo_wrapper img{
+    max-width: 160px;
+    height: auto;
+}
+.top_bar.scroll #menu_wrapper .nav ul li a, 
+.top_bar.scroll #menu_wrapper div .nav li > a, 
+.top_bar.scroll html[data-menu="centeralogo"] #logo_right_button {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.search_wrapper{
+    background-color: #F9FAFB;
+    padding:15px 0;
+    display: none;
+}
+#searchform{
+    position: relative;
+}
+.search_wrapper input[type="text"]{
+    margin-top: 0;
+    width: 100%;
+    border: 1px solid #F9FAFB;
+    position: relative;
+}
+.search_wrapper button{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #b1d234;
+    border: 0;
+    color: #fff;
+    padding: 13px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ppb_header.withbg{
+    position: relative;
+    display: block;
+    z-index: 9;
+}
+.ppb_header.withbg::before{
+    position: absolute;
+    content: '';
+    height: 35px;
+    width: 100%;
+    left: 0;
+    top: -35px;
+    background: #fff;
+    z-index: -1;
+}
+
+.header_search_wrapper .ti-search{
+        font-size: 13px;
+}
+ul.navigation{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: -60px;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+ul.navigation li{
+    display: inline-block;
+    padding: 5px 35px 15px 35px
+}
+ul.navigation li a{
+    text-transform: uppercase;
+    color:#183541;
+    font-weight: 600;
+    line-height: 1.2;
+    position: relative;
+    
+}
+ul.navigation li a:hover,
+ul.navigation li a.active{
+    color:#B1D234;
+}
+ul.navigation li a:hover:after,
+ul.navigation li a.active:after{
+    background-color: #B1D234;
+    content: '';
+    position: absolute;
+    bottom: -19px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+
+}
+
+.sidebox-title {
+    min-height: 50px;
+    background: #fff;
+    color: #000;
+    line-height: 50px;
+    padding: 0 15px 0 15px;
+    box-sizing: border-box;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 27.99%;
+    float: right;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.single-tour #page_content_wrapper .inner .sidebar_content {
+    margin-top : 0 !important
+}
+.single_tour_attribute_wrapper {
+    border-top:none !important;
+    border-bottom: 2px solid #dce0e0 !important;
+    margin-top:unset !important;
+}
+.single_tour_attribute_wrapper .tour_attribute_icon {
+    text-align: center;
+    color: #abb6bb;
+    font-size: 48px !important;
+    width: 48px !important;
+    height: 48px !important;
+}
+.single_tour_attribute_wrapper .tour_attribute_content {
+    font-size: 24px !important;
+}
+.nomarginr {
+    margin-right: 0 !important;
+}

@@ -1,0 +1,51 @@
+/* -- START -- Reset */
+#bsa-block-336--280 h3,
+#bsa-block-336--280 a,
+#bsa-block-336--280 img,
+#bsa-block-336--280 span,
+#bsa-block-336--280 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-block-336--280.bsaProContainerNew .bsaProItem,
+#bsa-block-336--280 .bsaProItemInner__thumb,
+#bsa-block-336--280 .bsaProAnimateThumb {
+	max-width: 336px;
+	max-height: 280px;
+}
+
+#bsa-block-336--280 .bsaProAnimateThumb {
+	position: relative;
+	width: 100%;
+	height: 280px;
+}
+
+#bsa-block-336--280 .bsaProAnimateThumb:before{
+	content: "";
+	display: block;
+}
+
+#bsa-block-336--280 .bsaProItemInner__img {
+	position:  absolute;
+	width: 100%;
+	max-height: 280px;
+	height: auto;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+/* -- END -- TEMPLATE */

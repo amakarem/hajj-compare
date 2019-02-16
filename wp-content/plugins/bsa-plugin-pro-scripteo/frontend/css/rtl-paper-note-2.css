@@ -1,0 +1,64 @@
+/* -- START -- Reset */
+#bsa-paper-note-2 h3,
+#bsa-paper-note-2 a,
+#bsa-paper-note-2 img,
+#bsa-paper-note-2 span,
+#bsa-paper-note-2 p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 1.25;
+}
+/* -- END -- Reset */
+
+
+/* -- START -- TEMPLATE */
+#bsa-paper-note-2 .bsaProItemInner.bsaNote {
+	position: relative;
+	height: 160px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	background: url('../img/paper-note.png') transparent top center no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+#bsa-paper-note-2 .bsaProItemInner .bsaProItemInner__copy {
+	float: right;
+	height: 160px;
+	width: 85%;
+	padding: 0 15% 0 0;
+	margin: 0;
+}
+
+#bsa-paper-note-2 .bsaProItemInner__copyInner {
+
+}
+
+#bsa-paper-note-2 .bsaProItemInner__copy .bsaProItemInner__title {
+	font-size: 20px;
+	margin: 20px 15px 0;
+	color: #000;
+}
+
+#bsa-paper-note-2 .bsaProItemInner__copy .bsaProItemInner__desc {
+	font-size: 14px;
+	line-height: 24px;
+	margin: 4px 15px 10px;
+	color: #000;
+}
+
+#bsa-paper-note-2 .bsaProItemInner__copy .bsaProItemInner__url {
+	margin: 0 15px;
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+}
+/* -- END -- TEMPLATE */
